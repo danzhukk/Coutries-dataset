@@ -1,5 +1,6 @@
 <h1>Project</h1>
-![Preview](https://github.com/Coutries-dataset/blob/main/preview.png)
+![preview](https://github.com/user-attachments/assets/8c241072-00c5-480b-9684-4c6581cf4ad9)
+
 
 
 
