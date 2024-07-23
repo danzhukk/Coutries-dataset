@@ -1,5 +1,6 @@
 <h1>Project</h1>
-![image](https://github.com/user-attachments/assets/1df2f7b9-eb51-4015-8de4-52247c559ddf)
+![Снимок экрана 2024-07-23 134436](https://github.com/user-attachments/assets/8ba9949b-3510-4e89-802c-c01f1571eec6)
+
 
 
 
